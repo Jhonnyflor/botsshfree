@@ -16,5 +16,4 @@ __Pacotes nescessarios:__
 - zip
 
 nosso telegram 
-https://t.me/netfreeOFICIALBR
-
+@netfreeOFICIALBR
